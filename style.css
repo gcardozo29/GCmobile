@@ -1,0 +1,14 @@
+@import url("style/header.css");
+@import url("style/Estrutura-principal.css");
+
+:root{
+    --cor-fundo:#acacac;
+    --fonte-principal: "Oswald";
+    --cor-fonte: #000000;
+}
+
+
+body{
+    background-color:var(--cor-fundo);
+    font-family: var(--fonte-principal);
+}
