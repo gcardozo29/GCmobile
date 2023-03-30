@@ -19,7 +19,7 @@
 
 .apresentacao-imagem{
     width: 40%;
-    border: 0.125em solid #000000;
+    border: 0.125rem solid #000000;
     border-radius: 5%;
     margin-left: 2.5%;
 }
@@ -33,7 +33,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 2% 2% 2% 2%;
+    padding: 2%;
 }
 
 .redes-sociais__titulo{
@@ -46,7 +46,7 @@
 
 .redes-sociais__itens{
     border: 0.125em solid #000000;
-    border-radius: 2em;
+    border-radius: 2rem;
     margin-top: 1.5%;
     padding: 3.1% 10%;
     width: 40%;
@@ -76,20 +76,20 @@ audio{
     display: block;
     margin: 0 auto;
     width: 60%;
-    border: 0.2em solid #000000;
-    border-radius: 2em;
-    margin-bottom: 1.5%;
+    border: 0.2rem solid #000000;
+    border-radius: 2rem;
+    margin-bottom: 1%;
 }
 
 .rodape{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #505050;
-    color: white;
+    background-color: transparent;
+    color: var(#000000);
     font-weight: 200;
-    font-size: 0.5em;
-    padding: 0.5%;
+    font-size: 0.5rem;
+    padding: 1%;
 }
 
 .rodape-imagem{
